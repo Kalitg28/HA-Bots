@@ -9,9 +9,9 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: HA Bots
-★ Username: @HA_Bots
-★ Country: Sri Lanka 🇱🇰"""
+    MY_OWNER_TXT = """★ Name: 𝐊𝐚𝐥𝐢🕊️ ⃟⃟⃝⃪⃟⃝🦋─⃛͢
+★ Username: @Kalitgadmin_Bot
+★ Country: India 🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -123,13 +123,13 @@ I can't find the <b>{}</b> in my database! 🥲
 /set_fsub - to set force subscribe channels
 /remove_fsub - to remove all force subscribe channel</b>"""
     
-    SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
+    SOURCE_TXT = """<b>
+┏━•❃𓊈𒆜Oᴡɴᴇʀ Dᴇᴛᴀɪʟꜱ𒆜𓊉❃•━┓   
+◈ ᴛɢ ɴᴀᴍᴇ : 𝐊𝐚𝐥𝐢🕊️ ⃟⃟⃝⃪⃟⃝🦋─‌⃛
+◈ ᴜꜱᴇʀɴᴀᴍᴇ : @Kalitgadmin_Bot 
+◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Kalitgadmin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HA-Bots/Auto-Filter-Bot>ʜᴇʀᴇ</a>
-
-- ᴅᴇᴠʟᴏᴘᴇʀ - @HA_Bots"""
+‿︵‿︵‿︵‿୨❤୧‿︵‿︵‿︵‿</b>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </u>
 
